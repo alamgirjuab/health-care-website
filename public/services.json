@@ -1,0 +1,38 @@
+[
+    {
+        "sl": 1,
+        "name": "ECG",
+        "description": "An electrocardiogram (ECG) is a simple test that can be used to check your heart's rhythm and electrical activity. Sensors attached to the skin are used to detect the electrical signals produced by your heart each time it beats.",
+        "img": "https://i.ibb.co/022mtSw/ecg.jpg"
+    },
+    {
+        "sl": 2,
+        "name": "Health Insurance",
+        "description": "Health insurance or medical insurance is a type of insurance that covers the whole or a part of the risk of a person incurring medical expenses.",
+        "img": "https://i.ibb.co/fGx7vNr/health-insurance.jpg"
+    },
+    {
+        "sl": 3,
+        "name": "NGOgram",
+        "description": "An electrocardiogram (ECG) is a simple test that can be used to check your heart's rhythm and electrical activity. Sensors attached to the skin are used to detect the electrical signals produced by your heart each time it beats.",
+        "img": "https://i.ibb.co/jk3X6dt/ngo-gram.jpg"
+    },
+    {
+        "sl": 4,
+        "name": "Pathology",
+        "description": "An electrocardiogram (ECG) is a simple test that can be used to check your heart's rhythm and electrical activity. Sensors attached to the skin are used to detect the electrical signals produced by your heart each time it beats.",
+        "img": "https://i.ibb.co/MhpSqqZ/pathology.jpg"
+    },
+    {
+        "sl": 5,
+        "name": "Daily Health Checkup",
+        "description": "An electrocardiogram (ECG) is a simple test that can be used to check your heart's rhythm and electrical activity. Sensors attached to the skin are used to detect the electrical signals produced by your heart each time it beats.",
+        "img": "https://i.ibb.co/sVT2y9F/regualr-checkup.png"
+    },
+    {
+        "sl": 6,
+        "name": "X-Ray",
+        "description": "An electrocardiogram (ECG) is a simple test that can be used to check your heart's rhythm and electrical activity. Sensors attached to the skin are used to detect the electrical signals produced by your heart each time it beats.",
+        "img": "https://i.ibb.co/PxMsRkF/x-ray.png"
+    }
+]
