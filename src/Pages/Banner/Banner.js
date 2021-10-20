@@ -16,7 +16,7 @@ const Banner = () => {
                         src={banner1}
                         alt="First slide"
                     />
-                    <Carousel.Caption>
+                    <Carousel.Caption className='bg-success border rounded-pill'>
                         <h3>Welcome to</h3>
                         <p>React Diagnostic Center</p>
                     </Carousel.Caption>
@@ -28,7 +28,7 @@ const Banner = () => {
                         alt="Second slide"
                     />
 
-                    <Carousel.Caption>
+                    <Carousel.Caption className='bg-success border rounded-pill'>
                         <h3>World Class Medical Facilities</h3>
                         <p>Our experts ensure you world class medical facilities</p>
                     </Carousel.Caption>
@@ -40,7 +40,7 @@ const Banner = () => {
                         alt="Third slide"
                     />
 
-                    <Carousel.Caption>
+                    <Carousel.Caption className='bg-success border rounded-pill'>
                         <h3>Trust on us</h3>
                         <p>Only we provide quick and right treatment, so trust us</p>
                     </Carousel.Caption>
@@ -52,7 +52,7 @@ const Banner = () => {
                         alt="Third slide"
                     />
 
-                    <Carousel.Caption>
+                    <Carousel.Caption className='bg-success border rounded-pill'>
                         <h3>We always beside you</h3>
                         <p>Reack digital diagnostic center always beside you</p>
                     </Carousel.Caption>
