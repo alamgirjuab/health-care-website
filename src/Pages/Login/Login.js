@@ -1,6 +1,7 @@
 import React from 'react';
 import { useHistory, useLocation } from 'react-router';
 import useAuth from '../../hooks/useAuth';
+import './Login.css';
 
 const Login = () => {
     const { signInUsingGoogle } = useAuth();
@@ -17,7 +18,7 @@ const Login = () => {
         // .finally(() => setIsLoading(false));
     }
     return (
-        <div className='container my-5 text-center'>
+        <div className='container my-5 text-center body'>
             <h1 className='text-center text-primary my-5'>Please Login</h1>
 
             <div >
